@@ -1,10 +1,10 @@
 import React from 'react';
-import CenteredSquares from './CenteredSquares';
+import Dashboard from './Dashboard';
 
 function App() {
   return (
     <div className="App">
-      <CenteredSquares />
+      <Dashboard />
     </div>
   );
 }
